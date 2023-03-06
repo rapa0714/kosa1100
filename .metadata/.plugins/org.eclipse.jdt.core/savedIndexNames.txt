@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+C:\Metanet_asy\workspace\git4_work\.metadata\.plugins\org.eclipse.jdt.core
+3240507679.index
+3189066861.index
+3417566402.index
+3801520768.index
+3449671623.index
+3513498187.index
+3027551852.index
+2228775283.index
+1704790396.index
+2316844521.index
+97661567.index
+1184770386.index
+1602128660.index
+2596710395.index
+2625827463.index
+830735439.index
